@@ -1,0 +1,17 @@
+.music-player {
+    display: flex;
+    align-items: center;
+  }
+  
+  .player-controls {
+    display: flex;
+    gap: 16px;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #333;
+  }
